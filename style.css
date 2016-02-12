@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Dissimo-Medium';
+  src: url('Dissimo-Medium.otf');
+}
+
+html, body {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family: 'Papyrus';
+}
+
+h1 {
+	font-size:;
+	color:black;
+	font-size: 2em; margin: .67em 0 
+}
+
+
+h2 {
+	color:blue;
+	font-size: 1.5em; margin: .75em 0
+}
+
+
+h3 {
+	color:#061117;
+	font-size: 1.17em; margin: .83em 0
+}
+
+img {
+	width:200px;
+	height:200px;
+}
+
+.content {
+	margin-top: 10px;
+	margin-bottom:5px;
+	margin-left:3em;
+}
+
+.leftbar, .centerbar, .rightbar {
+	margin:2em 0 2em 0;
+}
+
+.leftbar {
+
+}
+
+.centerbar {
+
+}
+
+
+.rightbar {
+
+}
